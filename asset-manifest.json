@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/honurs_hw/static/css/main.c023f978.css",
+    "main.js": "/honurs_hw/static/js/main.0f08a311.js",
+    "static/js/592.b34115a2.chunk.js": "/honurs_hw/static/js/592.b34115a2.chunk.js",
+    "index.html": "/honurs_hw/index.html",
+    "main.c023f978.css.map": "/honurs_hw/static/css/main.c023f978.css.map",
+    "main.0f08a311.js.map": "/honurs_hw/static/js/main.0f08a311.js.map",
+    "592.b34115a2.chunk.js.map": "/honurs_hw/static/js/592.b34115a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c023f978.css",
+    "static/js/main.0f08a311.js"
+  ]
+}
